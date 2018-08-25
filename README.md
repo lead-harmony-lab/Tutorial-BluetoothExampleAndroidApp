@@ -1,2 +1,2 @@
-# Tutorial Code for Android Bluetooth app
-
+# Tutorial Code for Android Bluetooth App
+This is a working copy of the example tutorial code featured on the [CodingWithMitch YouTube channel](https://www.youtube.com/watch?v=y8R2C86BIUc&list=PLgCYzUzKIBE8KHMzpp6JITZ2JxTgWqDH2). This code has been extended to include initialization code from a tutorial featured on Harry's Developer Blog and to include command code from Boldi Zopcsak's Android Bluetooth tutorial.
